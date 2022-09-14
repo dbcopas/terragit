@@ -12,6 +12,8 @@ terraform {
   }
 }
 
+
+
 resource "azurerm_resource_group" "terragit" {
   name     = "terragit"
   location = "westeurope"
