@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "terragit" {
-  name     = "terragitdemo2"
+  name     = "terragitdemo333"
   location = "westeurope"
 }
